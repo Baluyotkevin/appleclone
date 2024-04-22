@@ -1,3 +1,4 @@
+import Example from "./components/Example"
 import Features from "./components/Features"
 import Hero from "./components/Hero"
 import Highlights from "./components/Highlights"
@@ -13,6 +14,7 @@ const App = () => {
       <Highlights />
       <Model />
       <Features />
+      <Example />
     </main>
   )
 }
